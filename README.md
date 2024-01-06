@@ -2,12 +2,12 @@
 
 ## Tableof Contents
 
--[Project overview](#project-Overview)
--[Data sources](Data-sources)
--[Tools](Tools)
--[Data cleaning/preparation](Data-cleaning/preparation)
--[Exploring data analysis](Exploring-data-analysis)
--[All about dataset](All-about-dataset)
+- [Project overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools](#tools)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploring data analysis](#exploring-data-analysis)
+- [All about dataset](#all-about-dataset)
 
 ### Project overview
 
@@ -24,7 +24,7 @@ Sales data:The primary dataset used for this analysis is the "sales_data.csv" fi
 - Excel, Power BI, Tableau - Creating reports
 
 
-### Data cleaning/preparation
+### Data cleaning and preparation
 
 In the initialdata preparation phase, we performed the following tasks:
 - ## Null & Empty values:
