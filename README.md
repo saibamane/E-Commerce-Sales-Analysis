@@ -100,3 +100,10 @@ In the initialdata preparation phase, we performed the following tasks:
     with Olist’s services.
 
 ![KPI 5](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/a265e003-8956-4602-834b-4ba5a12f8301)
+
+### Conclusion
+
+The analysis also focuses on the product categories with respect to the price and the review score of the customer. So, if the company focuses on the product’s pricing strategy and makes product improvements on the basis of consumer opinion, the company can make better revenue and can increase the range of products under each category. 
+
+The organization needs to purposely address the purchaser's survey and continue to adjust and change the item range. Future work in this space might incorporate recognizing how connections revealed in this investigation might be applied to further develop income inside comparative internet business organizations in Brazil
+
