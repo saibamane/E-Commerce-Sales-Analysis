@@ -8,6 +8,7 @@
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
 - [Exploring data analysis](#exploring-data-analysis)
 - [All about dataset](#all-about-dataset)
+- [Conclusion](#conclusion)
 
 ### Project overview
 
