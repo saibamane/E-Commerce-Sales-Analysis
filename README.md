@@ -70,12 +70,16 @@ In the initialdata preparation phase, we performed the following tasks:
     More than 70% of sales were paid by Credit Card which is the main payment method in the market. However, payment using Boleto has 
     slightly increased by 7% and a significant increase 
     in using a debit card has been founded.
-    
+
+![KPI 2](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/3a874273-f5e3-4762-9b23-fe60a215af7e)
+   
     3.## Average number of days taken for order_delivered_customer_date for pet_shop
     21 days is the maximum avg days taken to deliver the order and for the product : (Office furniture).
     5 days is the minimum avg days taken to deliver the order and for the product: artes_e_artesanato (arts and craftmanship).
     Year wise sales are increasing which means we doing good in the market.
 
+![KPI 3](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/78e45703-c5bb-4cf0-9f9f-945cd4e61593)
+ 
     4.## Average price and payment values from customers of sao paulo city
     Sao Paulo City – Avg price is 108 and avg payment is 153
     The total number of customers is nearly 100K. We found out that São Paulo (SP) contains the most customers and is 3 times more 
@@ -84,6 +88,8 @@ In the initialdata preparation phase, we performed the following tasks:
     particularly the most order payment value. Either Rio de Janerio (RJ) or Minas Gerais (MG) takes 10% of total customers. This 
     indicates that the top 5 states contribute 80% of total 
     customers.
+
+![KPI4](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/5637736f-5995-4efa-be7b-f33eb251353c)
     
     5.## Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
     11 avg shipping days taken for review score 5 & 20 avg shipping days taken for review score 1.
@@ -93,3 +99,4 @@ In the initialdata preparation phase, we performed the following tasks:
     After analysing the review scores(customer satisfaction rating), the average score is 4.07/5, which shows positive satisfaction 
     with Olist’s services.
 
+![KPI 5](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/a265e003-8956-4602-834b-4ba5a12f8301)
