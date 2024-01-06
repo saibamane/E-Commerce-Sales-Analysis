@@ -61,7 +61,9 @@ In the initialdata preparation phase, we performed the following tasks:
     Most of the sales are done on weekdays. Major sales happened on Tuesdays and on the weekend it’s on Sundays. 
     The highest number of payments are made through Credit card mode. 
     As we check daywise payment statics then Friday is on top.
-
+    
+    ![Dashboard](KPI 1.PNG)
+    
     ![KPI 1](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/6e988da9-c7d7-4524-a6ee-fe6bcd18a74a)
 
     2. ### Number of Orders with review score 5 and payment type as credit card.
