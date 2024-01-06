@@ -62,9 +62,7 @@ In the initialdata preparation phase, we performed the following tasks:
     The highest number of payments are made through Credit card mode. 
     As we check daywise payment statics then Friday is on top.
     
-    ![Dashboard](KPI 1.PNG)
-    
-    ![KPI 1](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/6e988da9-c7d7-4524-a6ee-fe6bcd18a74a)
+![KPI 1](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/dc5a23f3-6647-494b-a1ea-c1add479e9d5)
 
     2. ### Number of Orders with review score 5 and payment type as credit card.
     With a review score of 5 and payment type as a credit card, We received 44333 orders.
@@ -73,14 +71,10 @@ In the initialdata preparation phase, we performed the following tasks:
     slightly increased by 7% and a significant increase 
     in using a debit card has been founded.
     
-    ![KPI 2](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/1eaf9d16-145b-4363-9619-f60942413810)
-
     3.## Average number of days taken for order_delivered_customer_date for pet_shop
     21 days is the maximum avg days taken to deliver the order and for the product : (Office furniture).
     5 days is the minimum avg days taken to deliver the order and for the product: artes_e_artesanato (arts and craftmanship).
     Year wise sales are increasing which means we doing good in the market.
-
-    ![KPI 3](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/c169664c-b2e5-44a8-a4e2-22fa92531344)
 
     4.## Average price and payment values from customers of sao paulo city
     Sao Paulo City – Avg price is 108 and avg payment is 153
@@ -91,8 +85,6 @@ In the initialdata preparation phase, we performed the following tasks:
     indicates that the top 5 states contribute 80% of total 
     customers.
     
-    ![KPI4](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/6c4eaae8-7d5b-4f90-b7ff-342338016303)
-
     5.## Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
     11 avg shipping days taken for review score 5 & 20 avg shipping days taken for review score 1.
     We get positive/high ratings when delivery time is less and negative feedback from the customers when it takes long to deliver the 
@@ -100,7 +92,4 @@ In the initialdata preparation phase, we performed the following tasks:
     Lesser the delivery days – the higher the positive reviews.
     After analysing the review scores(customer satisfaction rating), the average score is 4.07/5, which shows positive satisfaction 
     with Olist’s services.
-    
-    ![KPI 5](https://github.com/saibamane/E-Commerce-Sales-Analysis/assets/154344179/7b9debf2-9904-4437-a37e-4f614177d93c)
-
 
